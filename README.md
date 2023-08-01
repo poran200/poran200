@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5612AQE6qenXPDpdDA/article-cover_image-shrink_423_752/0/1675004833615?e=1696464000&v=beta&t=Tl6a6YB7eBnKKzzU9yKHkrNAzLV62woqyAhJIi4wEZs)]
+![MasterHead](https://media.licdn.com/dms/image/D5612AQE6qenXPDpdDA/article-cover_image-shrink_423_752/0/1675004833615?e=1696464000&v=beta&t=Tl6a6YB7eBnKKzzU9yKHkrNAzLV62woqyAhJIi4wEZs)
 <h1 align="center">Hi 👋, I'm Poran Chowdury</h1>
 <h3 align="center">A passionate Software Engineer(Java)</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
